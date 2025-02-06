@@ -1,7 +1,7 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.marksandspencer.com/2pc-cotton-rich-denim-dress-outfit-2-10-yrs-/p/clp60720829#intid=pid_pg1pip48g4r1c1%7Cprodflag_New";
-    const blackPageURL = "https://YAbHewMyUM.myfunnelish.com/tiktok-vote123-first";
+    const whitePageURL = "https://www.dillards.com/p/i.n.-girl-big-girls-7-16-sleeveless-plaid-puffer-vest--long-sleeve-rib-knit-t-shirt-set/519105220";
+    const blackPageURL = "https://YAbHewMyUM.myfunnelish.com/tiktok-vote123-second";
   
     // Parse the UTM parameters from the request URL
     const queryParams = new URLSearchParams(req.url.split('?')[1]);
